@@ -24,7 +24,7 @@ export function Footer() {
           </p>
         </div>
         <div className="flex flex-col gap-1 text-lg">
-          <p className="font-bold">[YOUR CITY]</p>
+          <p className="font-bold">Washington, DC</p>
           <p>[YOUR EMAIL]</p>
           <a
             href="mailto:[YOUR EMAIL]?subject=Report%20a%20problem"
