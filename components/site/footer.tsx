@@ -34,7 +34,7 @@ export function Footer() {
           </a>
         </div>
         <p className="border-t border-text-on-dark/20 pt-6 text-lg text-text-on-dark/90 md:col-span-2">
-          Prototype: verification, ratings, and payments are shown for demonstration.
+          Prototype: © All Rights Reserved. Daria Giraud | DariaCreativeCo. 
         </p>
       </Container>
     </footer>
