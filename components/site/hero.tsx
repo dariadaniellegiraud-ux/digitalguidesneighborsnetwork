@@ -153,7 +153,7 @@ export function Hero() {
     <section id="top" aria-labelledby="hero-title" className="relative overflow-hidden pb-28 pt-12 sm:pt-16 lg:pb-36">
       <Container className="grid items-center gap-12 lg:grid-cols-[1.05fr_1fr] lg:gap-8">
         <div>
-          <Eyebrow>Community tech help · [YOUR CITY]</Eyebrow>
+          <Eyebrow>Community tech help · Washington, DC </Eyebrow>
           <h1
             id="hero-title"
             className="font-serif text-senior-display font-semibold text-text-primary text-balance"
