@@ -25,7 +25,7 @@ export function Footer() {
         </div>
         <div className="flex flex-col gap-1 text-lg">
           <p className="font-bold">Washington, DC</p>
-          <p>daria.giraud@snhu.edu</p>
+          <p>daria.smithgiraud@snhu.edu</p>
           <a
             href="mailto:[YOUR EMAIL]?subject=Report%20a%20problem"
             className="mt-2 inline-flex min-h-12 w-fit items-center font-bold underline decoration-2 underline-offset-4"
